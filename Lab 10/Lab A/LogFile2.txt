@@ -1,0 +1,25 @@
+Log file status checked - Created
+Collecting Started
+Log File Changed Successfully
+Measurement Taken: 962
+Measurement Taken: 228
+Measurement Taken: 1113
+Measurement Taken: 875
+Measurement Taken: 552
+Measurement Taken: 244
+Measurement Taken: 625
+Measurement Taken: 1377
+Measurement Taken: 315
+Measurement Taken: 39
+Measurement Taken: 604
+Measurement Taken: 1324
+Measurement Taken: 718
+Measurement Taken: 234
+Measurement Taken: 387
+Measurement Taken: 1107
+Measurement Taken: 959
+Measurement Taken: 1207
+Measurement Taken: 1154
+Measurement Taken: 917
+Collecting Stopped
+Object Disposed
