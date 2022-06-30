@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b689ff49-e455-41f1-b6d2-4795b8426062" name="Student@10266A-GEN-DEV 2022-06-28 09:30:01" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ec544e03-20d0-4280-bdbf-9f992f5801fd">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2022-06-28 09_30_01">
+      <DeploymentItem filename="E:\Labfiles\Lab 4\Ex2\Starter\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2022-06-28T09:30:01.5487968-07:00" queuing="2022-06-28T09:30:01.6640312-07:00" start="2022-06-28T09:30:01.6903984-07:00" finish="2022-06-28T09:30:01.8163750-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MatrixMultiplyTest1" storage="e:\labfiles\lab 4\ex2\starter\matrix unit test project\bin\debug\module 4 unit test project.dll" id="0f679c2e-619a-fab9-64a5-dcb018921581">
+      <Execution id="61042bd4-69e2-46fc-b056-69de1400e0d3" />
+      <TestMethod codeBase="E:/Labfiles/Lab 4/Ex2/Starter/Matrix Unit Test Project/bin/Debug/Module 4 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab4UnitTests.MatrixTest, Module 4 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MatrixMultiplyTest1" />
+    </UnitTest>
+    <UnitTest name="MatrixMultiplyTest3" storage="e:\labfiles\lab 4\ex2\starter\matrix unit test project\bin\debug\module 4 unit test project.dll" id="48bb4ce0-916f-fd78-cb24-8c67a8d2a76b">
+      <Execution id="1bebe9d4-3803-4fa8-8063-d7b45d70b88b" />
+      <TestMethod codeBase="E:/Labfiles/Lab 4/Ex2/Starter/Matrix Unit Test Project/bin/Debug/Module 4 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab4UnitTests.MatrixTest, Module 4 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MatrixMultiplyTest3" />
+    </UnitTest>
+    <UnitTest name="MatrixMultiplyTest2" storage="e:\labfiles\lab 4\ex2\starter\matrix unit test project\bin\debug\module 4 unit test project.dll" id="16e12141-9207-2540-ef3e-b656cbc6231c">
+      <Execution id="f1cb1f14-5d7e-4bfd-bdd3-19553d184f56" />
+      <TestMethod codeBase="E:/Labfiles/Lab 4/Ex2/Starter/Matrix Unit Test Project/bin/Debug/Module 4 Unit Test Project.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Lab4UnitTests.MatrixTest, Module 4 Unit Test Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MatrixMultiplyTest2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0f679c2e-619a-fab9-64a5-dcb018921581" executionId="61042bd4-69e2-46fc-b056-69de1400e0d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="16e12141-9207-2540-ef3e-b656cbc6231c" executionId="f1cb1f14-5d7e-4bfd-bdd3-19553d184f56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="48bb4ce0-916f-fd78-cb24-8c67a8d2a76b" executionId="1bebe9d4-3803-4fa8-8063-d7b45d70b88b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="61042bd4-69e2-46fc-b056-69de1400e0d3" testId="0f679c2e-619a-fab9-64a5-dcb018921581" testName="MatrixMultiplyTest1" computerName="10266A-GEN-DEV" duration="00:00:00.0089944" startTime="2022-06-28T09:30:01.6943047-07:00" endTime="2022-06-28T09:30:01.7939140-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="61042bd4-69e2-46fc-b056-69de1400e0d3">
+    </UnitTestResult>
+    <UnitTestResult executionId="f1cb1f14-5d7e-4bfd-bdd3-19553d184f56" testId="16e12141-9207-2540-ef3e-b656cbc6231c" testName="MatrixMultiplyTest2" computerName="10266A-GEN-DEV" duration="00:00:00.0014676" startTime="2022-06-28T09:30:01.7939140-07:00" endTime="2022-06-28T09:30:01.7968437-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f1cb1f14-5d7e-4bfd-bdd3-19553d184f56">
+    </UnitTestResult>
+    <UnitTestResult executionId="1bebe9d4-3803-4fa8-8063-d7b45d70b88b" testId="48bb4ce0-916f-fd78-cb24-8c67a8d2a76b" testName="MatrixMultiplyTest3" computerName="10266A-GEN-DEV" duration="00:00:00.0002756" startTime="2022-06-28T09:30:01.7978203-07:00" endTime="2022-06-28T09:30:01.7997734-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1bebe9d4-3803-4fa8-8063-d7b45d70b88b">
+    </UnitTestResult>
+  </Results>
+</TestRun>
